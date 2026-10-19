@@ -4,6 +4,27 @@ UniAssist AI is an enterprise-grade University Helpdesk Assistant designed with 
 
 ---
 
+## 🚀 Live Demo
+
+**[Try UniAssist AI](https://lpu-uni-assist-ai.vercel.app/)**
+
+Ask questions about admissions, scholarships, course registration, campus IT, placements, and university services.
+
+## 🛠️ Tech Stack
+
+- Frontend: React, Vite
+- Backend: FastAPI, Python
+- AI: OpenRouter LLM
+- Retrieval: RAG, embeddings, ChromaDB
+- Deployment: Vercel and Render
+
+## 🔗 Links
+
+- **Live Demo:** https://lpu-uni-assist-ai.vercel.app/
+- **Backend API:** https://lpu-uniassist-ai.onrender.com/
+- **API Documentation:** https://lpu-uniassist-ai.onrender.com/docs
+
+
 ## 🌟 Why OpenRouter?
 
 1. **OpenAI-Compatible Interface**: OpenRouter exposes standard OpenAI-compatible endpoints (`https://openrouter.ai/api/v1`), allowing us to use the battle-tested `openai` Python SDK without vendor lock-in.
